@@ -1,0 +1,6 @@
+git_attributes
+*~
+*.swp
+**/exercise
+**/remote
+
