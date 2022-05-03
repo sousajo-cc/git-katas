@@ -42,7 +42,7 @@ A collection of useful commands to use throughout the exercises:
 git init            # Initialize an empty git repository under current directory.
 
 # Cloning a repository
-git clone https://cc-github.bmwgroup.net/jorgesousa/git-workshop-ctw      # Clone this repository to your current working directory
+git clone https://github.com/sousajo-cc/git-katas     # Clone this repository to your current working directory
 
 # Git (user and repo level) configurations
 git config --local user.name "Repo-level Username"          # For setting a local git repo level user name.
